@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["James Hu"]
   s.date = "2015-06-03"
-  s.description = "TODO: longer description of your gem"
+  s.description = "Ruby Crawlspace client"
   s.email = "hello@james.hu"
   s.extra_rdoc_files = [
     "LICENSE.txt",
