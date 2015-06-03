@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "crawlspace"
   gem.homepage = "http://github.com/axsuul/crawlspace"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Ruby Crawlspace client}
+  gem.description = %Q{Ruby Crawlspace client}
   gem.email = "hello@james.hu"
   gem.authors = ["James Hu"]
   # dependencies defined in Gemfile
