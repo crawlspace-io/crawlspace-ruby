@@ -24,6 +24,8 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "crawlspace-ruby.sublime-project",
+    "crawlspace-ruby.sublime-workspace",
     "crawlspace.gemspec",
     "lib/crawlspace.rb",
     "test/helper.rb",
